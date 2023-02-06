@@ -32,17 +32,16 @@ An overview of the main projects we are maintaining under "Public Goods"
 
 ## IBC Related
 
-* confio/ts-relayer
-* confio/cw-ibc-demo
-* confio/ibc-tests-cw20
-* confio/relayer-ci-images 
+* [confio/ts-relayer](https://github.com/confio/ts-relayer) - TypeScript based IBC relayer designed for configurability and embedding in integration tests. Runs in Node.js and in the browser.
+* [confio/ibc-tests-cw20](https://github.com/confio/ibc-tests-cw20) - First demo of using `ts-relayer` to do full-stack IBC integration tests, using cw20-ics20 talking to native transfer module
+* [confio/cw-ibc-demo](https://github.com/confio/cw-ibc-demo) - Sample IBC contract application, showing Interchain Account and Interchain Query functionality, plus callbacks. Not for production use as is.
+* [confio/relayer-ci-images](https://github.com/confio/relayer-ci-images) - Docker images for some major CosmWasm chains configured for using in CI scripts with ts-relayer.
 
 ## Documentation
 
-* CosmWasm/book
-* CosmWasm/resources
-* CosmWasm/cw-awesome
-* CosmWasm/advisories
+* [CosmWasm/book](https://github.com/CosmWasm/book) - A detailed guide through the process of writing Rust smart contracts. Check it out on [book.cosmwasm.com](https://book.cosmwasm.com/)
+* [CosmWasm/cw-awesome](https://github.com/CosmWasm/cw-awesome) - Awesome CosmWasm, a list of links to resources from us and external
+* [CosmWasm/advisories](https://github.com/CosmWasm/advisories) - Public announcements of security issues (after responsible disclosure to affected parties)
 
 
 ## Other Tools
