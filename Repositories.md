@@ -44,7 +44,9 @@ An overview of the main projects we are maintaining under "Public Goods"
 * [CosmWasm/advisories](https://github.com/CosmWasm/advisories) - Public announcements of security issues (after responsible disclosure to affected parties)
 
 
-## Other Tools
+## Unmaintained
+
+Some other useful repos we wrote, but not really maintaining.
 
 * CosmWasm/cosmwasm-go
 * CosmWasm/tinygo
